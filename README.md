@@ -1,4 +1,4 @@
-[![Header](https://https://github.com/Nikatest/test/blob/main/assets/frame.jpg)](https://vk.com/id6281026/)
+[![Header](https://github.com/Nikatest/test/blob/main/assets/frame.jpg)](https://vk.com/id6281026/)
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
