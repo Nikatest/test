@@ -1,18 +1,6 @@
 [![Header](https://github.com/Nikatest/test/blob/main/assets/frame.jpg)](https://vk.com/id6281026/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+## I'm a QA Engineer student. 
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Импорт, экспорт данных для тестировщика. Операторы HAVING и UNION](https://www.youtube.com/watch?v=-rI8Swa35Pw)
-- [КАКИЕ НАВЫКИ ДОЛЖНЫ БЫТЬ У УСПЕШНОГО КАНДИДАТА? #войтивайти](https://www.youtube.com/watch?v=K2RBGSPjzdc)
-- [КАК СТАТЬ МИДДЛОМ ЗА 6 НЕДЕЛЬ? + накрутка опыта в IT](https://www.youtube.com/watch?v=bUBTrHmJ2t0)
-- [ГДЕ ИСКАТЬ СТАЖИРОВКИ ДЛЯ АЙТИШНИКОВ?](https://www.youtube.com/watch?v=PsP-Bgga4Is)
-- [ЧТО ПРОВЕРЯЕТ РЕКРУТЕР В ТВОЕМ РЕЗЮМЕ?](https://www.youtube.com/watch?v=20sqlQSdye4)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
