@@ -14,11 +14,12 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://docs.google.com/spreadsheets/d/1ghwnjYXKcQkEDjxTPq3Ejv12CcaTtQyooahUdXUgbgw/edit#gid=0)
+- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1ghwnjYXKcQkEDjxTPq3Ejv12CcaTtQyooahUdXUgbgw/edit#gid=1727912813)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1ghwnjYXKcQkEDjxTPq3Ejv12CcaTtQyooahUdXUgbgw/edit#gid=1512128158)
+- [SQL Queries](https://github.com/Nikatest/sql/blob/main/sql_task1.docx)
+- [SQL Queries](https://github.com/Nikatest/sql/blob/main/sql_task2.docx)
+- [Postman Collections](https://www.postman.com/lunar-module-administrator-31147542/workspace/my-workspace/collection/26436128-91b2cf5c-78c0-4d93-b73b-eb021bbaba28?action=share&creator=26436128)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/nika___akin/)
